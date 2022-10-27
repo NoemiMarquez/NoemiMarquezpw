@@ -1,6 +1,4 @@
-p{
-    color:blueviolet;
-}
+
 
 h1{
     color:brown;
@@ -23,15 +21,23 @@ h1{
     color:darkolivegreen;
 }
 
-/*todo*/
+/*todo
 *{
     color:black;
 }
 
 [href]{
     color:palevioletred;
-}
+}*/
 
 [class="titulo"]{
     color:tomato;
 }
+
+p{
+    color:blueviolet;
+}
+
+p{color:green !important;}
+
+a{color:inherit;}

@@ -1,0 +1,34 @@
+.date{
+    /*background-color:#E05654;*/
+    background-image:url(../assets/img/date.jpg);
+    text-align: center;
+    text-decoration: wavy;
+    line-height: 2.5em;
+}
+
+.b{
+    background-color:#ccffcc;
+}
+
+.ds{
+    text-align:justify;
+    background-color: #DAB761;
+    font-size:10000 px;
+    width: 110%;
+    padding-left: 5em;
+    line-height: 2em;
+}
+
+.dd{
+    background-color: darkred;
+    text-align: center;
+    height: 3em;
+}
+
+.centrado{
+    text-align: center;
+}
+/*.titulo{
+    /*background-color: #E05654;
+}*/
+/*navbar-expand-lg bg-light*/

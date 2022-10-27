@@ -1,0 +1,64 @@
+.box{
+    background-color: lemonchiffon;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    /*padding: 40px;*/
+    /*margin: espaciar elementos*/
+    border: 10px solid violet;
+    outline-style: 10px dashed;
+   /* outline-color: violet;*/
+/*outline espacio entre margen y borde*/
+}
+
+.box2{
+    background-color:lemonchiffon;
+    height: 200px;
+    width: 100px;
+    border: 30px dashed blue;
+}
+
+h1{
+    background-color: lemonchiffon;
+    height: 200px;
+    width: 100px;
+   /* margin-top: 10px;
+    margin-bottom: 50px; */
+    padding: 40px;
+    /*margin: espaciar elementos*/
+
+}
+
+h2{
+    background-color: lightcoral;
+    width: 100px;
+}
+
+a{
+    background-color: lightblue;
+    height: 300px ;
+    width: 300px;
+}
+
+body{
+    height: 500px;
+    width: 500px;
+    margin: 10px solid violet;
+}
+
+.out {
+    margin: 100px;
+    /position: relative;/
+    /display: flex;/
+    justify-content: center;
+    align-items: center;
+}
+
+.in{
+    margin: 20px;
+    border:  7px solid violet;
+    outline: 4px solid violet;
+    outline-offset:  -30px;
+    text-align: center;
+}

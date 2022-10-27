@@ -1,0 +1,16 @@
+.menu{
+    background: darkcyan;
+    padding: .5em;
+    text-align: center;
+    font-size: 2em;
+    position: fixed;
+    width: 100%;
+}
+
+.title{
+    margin: 0;
+}
+
+.text{
+    margin: 50px;
+}

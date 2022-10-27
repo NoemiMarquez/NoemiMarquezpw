@@ -1,0 +1,25 @@
+.menu{
+    background: darkcyan;
+    padding: .5em;
+    text-align: center;
+    font-size: 2em;
+    width: 100%;
+}
+
+.title{
+
+    margin: 100;
+    position:sticky
+}
+
+.text{
+    margin: 50px;
+}
+
+.slide{
+    background-color: gray;
+    text-align: center;
+    height: 200px;
+    position: sticky;
+    top:20px
+}
