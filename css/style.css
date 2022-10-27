@@ -1,0 +1,37 @@
+p{
+    color:blueviolet;
+}
+
+h1{
+    color:brown;
+}
+
+.titulo{
+    color:aquamarine;
+}
+
+.texto{
+    color:chartreuse;
+}
+
+/*ID*/
+#titulo{
+    color:cornflowerblue;
+}
+
+#texto{
+    color:darkolivegreen;
+}
+
+/*todo*/
+*{
+    color:black;
+}
+
+[href]{
+    color:palevioletred;
+}
+
+[class="titulo"]{
+    color:tomato;
+}
